@@ -1,5 +1,6 @@
 # Nims
 Java, school project, independent work
+
 •	An implementation of Nim, a classical stone-picking game in mathematics. Each player must remove at least one stone from the pile of stones each round. The player who ends up picking the last stone loses.
 
 •	The program is able to:
